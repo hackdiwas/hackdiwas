@@ -1068,3 +1068,8 @@ nav {
     grid-template-columns: 2fr 1fr 1fr;
   }
 }
+
+/* last minute addition by dev */
+#guidelines{
+  color: #e9c675;
+}
