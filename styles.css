@@ -1082,3 +1082,13 @@ nav {
 #guidelines{
   color: #e9c675;
 }
+
+p{
+  text-wrap: pretty;
+  text-align: justify;
+  /* word-spacing:-2px; */
+  /* hyphenation */
+  hyphens: auto;
+  -webkit-hyphens: auto; /* For compatibility */
+  word-spacing: -0.05em; /* Adjust as needed */
+}
