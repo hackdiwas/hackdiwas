@@ -692,6 +692,15 @@ nav {
 .about__content-3 .section__subheader::after {
   content: "03";
 }
+.about__content-4 .section__subheader::after {
+  content: "04";
+}
+.about__content-5 .section__subheader::after {
+  content: "05";
+}
+.about__content-6 .section__subheader::after {
+  content: "06";
+}
 
 .about__content p {
   margin-bottom: 1.5rem;
