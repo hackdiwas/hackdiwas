@@ -1092,3 +1092,28 @@ p{
   -webkit-hyphens: auto; /* For compatibility */
   word-spacing: -0.05em; /* Adjust as needed */
 }
+
+#final{
+  font-family: 'Overpass Mono', monospace;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 12px 32px;
+  border-radius: 4px;
+  transition: 0.5s;
+  line-height: 1;
+  margin: 10px;
+  color: #fff;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  /* background: #2176a0; */
+  background: #162c3f;
+  border: 2px solid #e9c675;
+  box-shadow: 15px 1px 150px 
+}
+
+#finalspan{
+  display: flex;
+  justify-content: center;
+}
